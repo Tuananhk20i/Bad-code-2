@@ -168,7 +168,8 @@ public class BadSchoolProgram
             // copy-paste gần y nguyên, chỉ đổi cú pháp sang C#
             // ... (do code quá dài nên em dừng ở đây, còn lại tương tự bản Java)
             // thằng khánh ngủ ngật
-            // sắp bị gọi 
+            // sắp bị gọi `
+            // thôi em dừng ở đây ạ
         }
     }
 }
