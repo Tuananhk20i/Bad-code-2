@@ -3,7 +3,7 @@
 // Tất cả dữ liệu lưu trữ trong ArrayList<String> dạng "id|name|field1|field2|..."
 
 import java.util.*;
-
+//123 
 public class BadSchoolProgram {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
