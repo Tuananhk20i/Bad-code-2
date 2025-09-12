@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
+// Mô hình 3 lớp: Student, StudentService, Program
 public class Student
 {
     public string Id { get; set; }
