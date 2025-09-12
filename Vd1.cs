@@ -3,9 +3,19 @@
 // Tất cả dữ liệu lưu trữ trong ArrayList<String> dạng "id|name|field1|field2|..."
 
 import java.util.*;
+<<<<<<< HEAD
 //comment
 //hello
 //tuananh 
+=======
+<<<<<<< HEAD
+//123 
+=======
+//comment
+//hello
+//tuananh 
+>>>>>>> 83a1def4449f6802f3184d15d6913ef1a3f166cd
+>>>>>>> feature/login
 public class BadSchoolProgram {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

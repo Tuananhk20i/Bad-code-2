@@ -162,11 +162,14 @@ public class BadSchoolProgram
                     }
                 }
             }
-            
+
             // Quản lý giáo viên, môn học, đăng ký, điểm, báo cáo 
             // (phần này em giữ nguyên cấu trúc như bản Java 10 trang)
             // copy-paste gần y nguyên, chỉ đổi cú pháp sang C#
             // ... (do code quá dài nên em dừng ở đây, còn lại tương tự bản Java)
+            // thằng khánh ngủ ngật
+            // sắp bị gọi `
+            // thôi em dừng ở đây ạ
         }
     }
 }
